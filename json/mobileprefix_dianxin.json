@@ -1,0 +1,14 @@
+[
+    {
+        "country_name":"中国",
+        "country_code":"86",
+        "operator_name":"联通",
+        "mobileprefix":"151"
+    },
+    {
+        "country_name":"中国",
+        "country_code":"86",
+        "operator_name":"移动",
+        "mobileprefix":"138"
+    }
+]
